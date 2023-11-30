@@ -20,7 +20,7 @@ using static System.Net.Mime.MediaTypeNames;
 namespace ChineseCheckersClient.UserControls {
     /// <summary>
     /// Lógica de interacción para Chat.xaml
-    /// </summary>
+    /// </summary> 
     public partial class Chat : UserControl, ServiceReference.IMessageCallback {
         public Chat() {
             InitializeComponent();

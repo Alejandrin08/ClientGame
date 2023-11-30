@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="ChineseCheckersClient.UserControls.Chat"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ChineseCheckersClient.UserControls"
+             xmlns:p="clr-namespace:ChineseCheckersClient.Properties"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="600">
+    <Grid>
+        <ScrollViewer x:Name="scrollViewerChat" VerticalScrollBarVisibility="Auto" Margin="5,10,5,60">
+            <StackPanel  x:Name="stackPanelChat" />
+        </ScrollViewer>
+        <TextBox Grid.Row="1" Height="50" MaxLength="33" x:Name="txtMessage" VerticalContentAlignment="Center" Text="{x:Static p:Resources.EscribeMensaje}" FontSize="18" FontWeight="Bold"  BorderBrush="#FF000C29" Foreground="White" Background="#FF000C29" GotFocus="TxtMessageGotFocus" LostFocus="TxtMessageLostFocus" KeyDown="SendMessageTextBox" Margin="8, 390,65,0" />
+        <Image Grid.Row="1" Source="/Resources/Images/SendMessage.png" Width="56" Height="45" Stretch="Fill"  Cursor="Hand" Visibility="Visible" HorizontalAlignment="Right" Margin="0,390,9,2" MouseDown="SendMessage" />
+    </Grid>
+</UserControl>

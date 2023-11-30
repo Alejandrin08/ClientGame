@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ChineseCheckersLogicServer.Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ChineseCheckersLogicServer.Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="UserModel">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Gamertag" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="ImageProfile" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlayerStatus" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="UserModel" nillable="true" type="tns:UserModel" />
+  <xs:complexType name="FriendshipModel">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="IdFriend" type="xs:int" />
+      <xs:element minOccurs="0" name="IdRoom" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdUser" type="xs:int" />
+      <xs:element minOccurs="0" name="RequestStatus" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TypeNotification" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FriendshipModel" nillable="true" type="tns:FriendshipModel" />
+  <xs:complexType name="ReportModel">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CurrentDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="EndDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdUser" type="xs:int" />
+      <xs:element minOccurs="0" name="Reason" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ReportModel" nillable="true" type="tns:ReportModel" />
+</xs:schema>

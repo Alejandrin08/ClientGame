@@ -1,0 +1,61 @@
+﻿<Window x:Class="ChineseCheckersClient.View.ReportPlayer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:p="clr-namespace:ChineseCheckersClient.Properties"
+        xmlns:local="clr-namespace:ChineseCheckersClient.View"
+        xmlns:validation="clr-namespace:ChineseCheckersClient.Validations" xmlns:servicereference="clr-namespace:ChineseCheckersClient.ServiceReference" d:DataContext="{d:DesignInstance Type=servicereference:UserModel}"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        WindowState="Maximized">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/Styles/DictionaryStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <StackPanel>
+        <StackPanel.Background>
+            <ImageBrush ImageSource="/Resources/Images/fondoChineseCheekers.png" RenderOptions.BitmapScalingMode="Fant" Stretch="Fill"/>
+        </StackPanel.Background>
+        <Image Source="/Resources/Images/BackButton.png" Width="80" Height="70" HorizontalAlignment="Right" Margin="15" Stretch="Fill" Cursor="Hand" MouseDown="BackWindow"/>
+        <Border CornerRadius="8" BorderBrush="#141350" BorderThickness="2" Margin="180,50">
+            <StackPanel Background="#141350">
+                <TextBlock Text="{x:Static p:Resources.ReportarJugador}" x:Name="textBlockRegisterUser" FontSize="50" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0, -30"/>
+                <Grid Margin="50,50,50,0" HorizontalAlignment="Center">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Column="0" Margin="20" Orientation="Vertical">
+                        <TextBlock Text="{x:Static p:Resources.Reportar}" x:Name="textBlockName" FontSize="20" Foreground="White" Margin="18" FontWeight="Bold" VerticalAlignment="Center"/>
+                        <Image x:Name="imageProfile" Width="100" Height="100" HorizontalAlignment="Left" Margin="20,0,0,0" />
+                        <TextBlock x:Name="textBlockGamertag" Foreground="White" FontSize="20" Margin="30,0,0,0"/>
+                    </StackPanel>
+                    <StackPanel x:Name="stackPanelCheckBox" Grid.Column="1" Margin="20">
+                        <TextBlock Text="{x:Static p:Resources.Motivo}" x:Name="textBlockEmail" FontSize="20" Foreground="White" Grid.Column="1" FontWeight="Bold" Margin="0,20,0,0"/>
+                        <StackPanel Orientation="Horizontal" Grid.Column="1" Height="50">
+                            <CheckBox x:Name="checkBoxBadLanguaje" Content="{x:Static p:Resources.LenguajeInapropiado}" Style="{StaticResource CheckBoxStyle}" Height="30" FontSize="20"  Foreground="White" FontWeight="Bold" Checked="CheckBoxSelected" Unchecked="CheckBoxUnchecked" Cursor="Hand"/>
+                            <Image Source="/Resources/Images/IconLenguajeIn.png"  Height="40" Margin="23,0,0,0" HorizontalAlignment="Right"  Stretch="Fill"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" Grid.Column="1" Height="50">
+                            <CheckBox x:Name="checkBoxAbandonment" Content="{x:Static p:Resources.Abandono}" Style="{StaticResource CheckBoxStyle}" Height="30" FontSize="20"  Foreground="White" FontWeight="Bold" Checked="CheckBoxSelected" Unchecked="CheckBoxUnchecked" Cursor="Hand"/>
+                            <Image Source="/Resources/Images/IconSalirPartidas.png"  Height="40" HorizontalAlignment="Right" Margin="25,0,0,0" Stretch="Fill"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" Grid.Column="1" Height="50">
+                            <CheckBox x:Name="checkBoxInactivity" Content="{x:Static p:Resources.Inactividad}" Style="{StaticResource CheckBoxStyle}" Height="30" FontSize="20"  Foreground="White" FontWeight="Bold"  Checked="CheckBoxSelected" Unchecked="CheckBoxUnchecked" Cursor="Hand"/>
+                            <Image Source="/Resources/Images/IconZzz.png"  Height="35" HorizontalAlignment="Right" Margin="15,0,5,0" Stretch="Fill"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+                <Button Content="{x:Static p:Resources.Reporte}" x:Name="btnReport" Style="{StaticResource ButtonStyle}"  FontWeight="Bold" HorizontalAlignment="Center" Margin="50" Cursor="Hand"   IsEnabled="False" Click="Report" />
+            </StackPanel>
+        </Border>
+    </StackPanel>
+</Window>

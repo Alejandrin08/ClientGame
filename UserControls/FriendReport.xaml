@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="ChineseCheckersClient.UserControls.FriendReport"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ChineseCheckersClient.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Rectangle HorizontalAlignment="Center" Height="69" VerticalAlignment="Center" Width="200" RadiusX="16.333" RadiusY="16.333" Fill="#FF10115F"  />
+        <StackPanel Orientation="Horizontal">
+            <Rectangle Height="60" Width="60" RadiusX="100" RadiusY="100" Margin="8,0,0,0">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding PathFile}" Stretch="Uniform"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <StackPanel Height="29">
+                <TextBlock Text="{Binding Gamertag}" Height="27" Foreground="#FFFBFBFB" FontSize="14" Margin="4"/>
+            </StackPanel>
+            <Image Source="/Resources/Images/ReportIcon.png" Width="27" Margin="5" Cursor="Hand" x:Name="imageInvite" MouseDown="ReportPlayer">
+                <Image.Style>
+                    <Style TargetType="Image">
+                        <Setter Property="Visibility" Value="Collapsed"/>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding IsReport}" Value="True">
+                                <Setter Property="Visibility" Value="Visible" />
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Image.Style>
+            </Image>
+        </StackPanel>
+    </Grid>
+</UserControl>

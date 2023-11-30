@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.7.0.0",
+        "fileVersion": "4.7.0-3.23517.17 (9d4cc030)",
+        "semanticVersion": "4.7.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "Please review this hard-coded password.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/alexs/Desktop/ChineseCheckers/ChineseCheckersClient/Logic/Email.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 36,
+                  "endLine": 20,
+                  "endColumn": 111
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6444",
+          "level": "warning",
+          "message": "Pass a timeout to limit the execution time.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/alexs/Desktop/ChineseCheckers/ChineseCheckersClient/Validations/TokenValidationRule.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 27,
+                  "endLine": 13,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6444",
+          "level": "warning",
+          "message": "Pass a timeout to limit the execution time.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/alexs/Desktop/ChineseCheckers/ChineseCheckersClient/Validations/PasswordValidationRule.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 27,
+                  "endLine": 13,
+                  "endColumn": 91
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6444",
+          "level": "warning",
+          "message": "Pass a timeout to limit the execution time.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/alexs/Desktop/ChineseCheckers/ChineseCheckersClient/Validations/GamertagValidationRule.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 27,
+                  "endLine": 13,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/alexs/Desktop/ChineseCheckers/ChineseCheckersClient/Logic/Email.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 29,
+                  "endLine": 78,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6444",
+          "level": "warning",
+          "message": "Pass a timeout to limit the execution time.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/alexs/Desktop/ChineseCheckers/ChineseCheckersClient/Validations/EmailValidationRule.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 27,
+                  "endLine": 15,
+                  "endColumn": 139
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S2068": {
+          "id": "S2068",
+          "shortDescription": "Hard-coded credentials are security-sensitive",
+          "fullDescription": "Because it is easy to extract strings from an application source code or binary, credentials should not be hard-coded. This is particularly true for applications that are distributed or that are open-source.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2068",
+          "properties": {
+            "category": "Blocker Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2245": {
+          "id": "S2245",
+          "shortDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive",
+          "fullDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive. For example, it has led in the past to the following vulnerabilities:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2245",
+          "properties": {
+            "category": "Critical Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6444": {
+          "id": "S6444",
+          "shortDescription": "Not specifying a timeout for regular expressions is security-sensitive",
+          "fullDescription": "Not specifying a timeout for regular expressions can lead to a Denial-of-Service attack. Pass a timeout when using System.Text.RegularExpressions to process untrusted input because a malicious user might craft a value for which the evaluation lasts excessively long.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6444",
+          "properties": {
+            "category": "Major Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

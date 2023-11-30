@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="ChineseCheckersClient.UserControls.FriendListLobby"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:p="clr-namespace:ChineseCheckersClient.Properties"
+             xmlns:local="clr-namespace:ChineseCheckersClient.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Border CornerRadius="8" BorderBrush="#141350" BorderThickness="2">
+            <StackPanel Background="#141350">
+                <TextBlock Text="{x:Static p:Resources.ListaAmigos}" Foreground="White" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,4,0,0" FontSize="14" />
+                <Rectangle Width="700" Height="3" Fill="#141350" Margin="0, 5"/>
+                <ListView Height="300" Background="#FF000C29" BorderBrush="#FF091538" Width="290" x:Name="listOfFriends"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>

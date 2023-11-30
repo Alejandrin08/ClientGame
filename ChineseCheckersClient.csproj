@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D58F701D-4CB8-4674-A34E-D272AD574DE5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ChineseCheckersClient</RootNamespace>
+    <AssemblyName>ChineseCheckersClient</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.IO, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WpfAnimatedGif, Version=2.0.0.0, Culture=neutral, PublicKeyToken=9e7cd3b544a090dc, processorArchitecture=MSIL">
+      <HintPath>packages\WpfAnimatedGif.2.0.2\lib\net40\WpfAnimatedGif.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="View\App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Connected Services\ServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Logic\Email.cs" />
+    <Compile Include="Logic\InfoFriend.cs" />
+    <Compile Include="Logic\MusicPlayer.cs" />
+    <Compile Include="Logic\Enumerations.cs" />
+    <Compile Include="Properties\Resources.en-US.Designer.cs">
+      <DependentUpon>Resources.en-US.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Properties\Resources.en-MX.Designer.cs">
+      <DependentUpon>Resources.en-MX.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Logic\ChangeLanguaje.cs" />
+    <Compile Include="Logic\SingletonClass.cs" />
+    <Compile Include="UserControls\Chat.xaml.cs">
+      <DependentUpon>Chat.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MessageChat.xaml.cs">
+      <DependentUpon>MessageChat.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Validations\EmailDuplicityValidationRule.cs" />
+    <Compile Include="Validations\EmailEditValidationRule.cs" />
+    <Compile Include="Validations\EmailValidationRule.cs" />
+    <Compile Include="Validations\FriendRequestDuplicityValidationRule.cs" />
+    <Compile Include="Validations\GamertagDuplicityValidationRule.cs" />
+    <Compile Include="Validations\GamertagEditValidationRule.cs" />
+    <Compile Include="Validations\GamertagValidationRule.cs" />
+    <Compile Include="Validations\PasswordValidationRule.cs" />
+    <Compile Include="Validations\TokenValidationRule.cs" />
+    <Compile Include="View\App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="View\Board.xaml.cs">
+      <DependentUpon>Board.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ChangePassword.xaml.cs">
+      <DependentUpon>ChangePassword.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\EditProfile.xaml.cs">
+      <DependentUpon>EditProfile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Friend.xaml.cs">
+      <DependentUpon>Friend.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FriendList.xaml.cs">
+      <DependentUpon>FriendList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FriendListLobby.xaml.cs">
+      <DependentUpon>FriendListLobby.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FriendReport.xaml.cs">
+      <DependentUpon>FriendReport.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FriendRequest.xaml.cs">
+      <DependentUpon>FriendRequest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Lobby.xaml.cs">
+      <DependentUpon>Lobby.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\NotificationFriend.xaml.cs">
+      <DependentUpon>NotificationFriend.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\NotificationsList.xaml.cs">
+      <DependentUpon>NotificationsList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Options.xaml.cs">
+      <DependentUpon>Options.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\RegisterUser.xaml.cs">
+      <DependentUpon>RegisterUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ReportPlayer.xaml.cs">
+      <DependentUpon>ReportPlayer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Statistics.xaml.cs">
+      <DependentUpon>Statistics.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserMenu.xaml.cs">
+      <DependentUpon>UserMenu.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.en-US.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.en-US.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.en-MX.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.en-MX.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Connected Services\ServiceReference\ChineseCheckersClient.ServiceReference.UserModel.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference\item.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference\item1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference\item2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference\item3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference\item4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference\ManagerController.wsdl" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\catPixelArt.png" />
+    <Resource Include="Resources\Images\fondoChineseCheekers.png" />
+    <Resource Include="Resources\Images\Tablero.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Resources\Styles\DictionaryStyles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\Chat.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\MessageChat.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Board.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ChangePassword.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\EditProfile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\Friend.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\FriendList.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\FriendListLobby.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\FriendReport.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\FriendRequest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Lobby.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\NotificationFriend.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\NotificationsList.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Options.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\RegisterUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ReportPlayer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Statistics.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UserMenu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\VideoGameBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\BackButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\catTwoPixelArt.png" />
+    <Resource Include="Resources\Images\Cheems.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\hollowIcon.png" />
+    <Resource Include="Resources\Images\Pokemon.png" />
+    <Resource Include="Resources\Images\pollito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\FriendsIcon.png" />
+    <Resource Include="Resources\Images\SendMessage.png" />
+    <Resource Include="Resources\Images\TableroCandado.png" />
+    <Resource Include="Resources\Images\FindFriend.png" />
+    <Resource Include="Resources\Images\iconoNotificacion.png" />
+    <Resource Include="Resources\Images\IconCheckBox.png" />
+    <Resource Include="Resources\Images\IconLenguajeIn.png" />
+    <Resource Include="Resources\Images\IconSalirPartidas.png" />
+    <Resource Include="Resources\Images\IconZzz.png" />
+    <Resource Include="Resources\Images\ReportIcon.png" />
+    <Resource Include="Resources\Images\IconAdd.png" />
+    <None Include="Connected Services\ServiceReference\item.disco" />
+    <None Include="Connected Services\ServiceReference\configuration91.svcinfo" />
+    <None Include="Connected Services\ServiceReference\configuration.svcinfo" />
+    <None Include="Connected Services\ServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Resource Include="Resources\Images\UpdateIcon.png" />
+    <Resource Include="Resources\Images\Board.png" />
+    <Content Include="Resources\Music\backgroundTheme.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\ServiceReference\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

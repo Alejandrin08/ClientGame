@@ -1,0 +1,332 @@
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe.config
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.pdb
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\bin\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.dll
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.xml
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\Resources\Styles\DictionaryStyles.baml
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Friend.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\FriendList.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\App.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_Content.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.cache
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.lref
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.baml
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Friend.baml
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\FriendList.baml
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.baml
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.baml
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.baml
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.baml
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.baml
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.baml
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.g.resources
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-MX.resources
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.resources
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-US.resources
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.GenerateResource.cache
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CopyComplete
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.exe
+C:\Users\alexs\OneDrive\Escritorio\Codigo programas\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.pdb
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe.config
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.pdb
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\bin\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.AssemblyReference.cache
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\Resources\Styles\DictionaryStyles.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Friend.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\FriendList.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ReportPlayer.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\App.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_Content.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.cache
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.lref
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Friend.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\FriendList.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ReportPlayer.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.baml
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.g.resources
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-MX.resources
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.resources
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-US.resources
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.GenerateResource.cache
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CoreCompileInputs.cache
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CopyComplete
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.exe
+C:\Users\Palom\Desktop\Tecnologias\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.pdb
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe.config
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.pdb
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.dll
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.xml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.AssemblyReference.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\Resources\Styles\DictionaryStyles.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Chat.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\MessageChat.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Friend.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendList.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendListLobby.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendReport.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendRequest.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationFriend.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationsList.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ReportPlayer.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\App.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_Content.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.lref
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Chat.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\MessageChat.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Friend.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendList.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendListLobby.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendReport.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendRequest.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationFriend.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationsList.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ReportPlayer.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.g.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-MX.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-US.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.GenerateResource.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CopyComplete
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.exe
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.pdb
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe.config
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.pdb
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.dll
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.xml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.AssemblyReference.cache
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\Resources\Styles\DictionaryStyles.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Chat.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\MessageChat.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Friend.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendList.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendListLobby.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendReport.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendRequest.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationFriend.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationsList.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ReportPlayer.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\App.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_Content.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.cache
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.lref
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Chat.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\MessageChat.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Friend.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendList.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendListLobby.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendReport.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendRequest.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationFriend.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationsList.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ReportPlayer.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.baml
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.g.resources
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-MX.resources
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.resources
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-US.resources
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.GenerateResource.cache
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CopyComplete
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.exe
+C:\Users\alexs\Downloads\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.pdb
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe.config
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.pdb
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.dll
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.xml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.AssemblyReference.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\Resources\Styles\DictionaryStyles.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Chat.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\MessageChat.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Board.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Friend.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendList.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendListLobby.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendReport.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendRequest.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationFriend.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationsList.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ReportPlayer.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\App.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_Content.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.lref
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Chat.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\MessageChat.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Board.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Friend.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendList.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendListLobby.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendReport.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendRequest.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationFriend.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationsList.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ReportPlayer.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.g.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-MX.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-US.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.GenerateResource.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CopyComplete
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.exe
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckers\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.pdb
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe.config
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.exe
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\bin\Debug\ChineseCheckersClient.pdb
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\bin\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.dll
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\bin\Debug\WpfAnimatedGif.xml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.AssemblyReference.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\Resources\Styles\DictionaryStyles.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Chat.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\MessageChat.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Board.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Friend.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendList.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendListLobby.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendReport.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendRequest.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationFriend.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationsList.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ReportPlayer.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\App.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_Content.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.lref
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Chat.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\MessageChat.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Board.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Friend.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendList.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendListLobby.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendReport.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\FriendRequest.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Lobby.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Login.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationFriend.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\NotificationsList.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Options.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\RegisterUser.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ReportPlayer.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Statistics.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\UserMenu.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.g.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-MX.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.Properties.Resources.en-US.resources
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.GenerateResource.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\en-US\ChineseCheckersClient.resources.dll
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.csproj.CopyComplete
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.exe
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient.pdb

@@ -1,0 +1,54 @@
+﻿C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Logic\Email.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Logic\InfoFriend.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Logic\MusicPlayer.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Logic\Enumerations.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Logic\ChangeLanguaje.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Logic\SingletonClass.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\UserControls\Chat.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\UserControls\MessageChat.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Validations\EmailDuplicityValidationRule.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Validations\EmailEditValidationRule.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Validations\EmailValidationRule.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Validations\FriendRequestDuplicityValidationRule.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Validations\GamertagDuplicityValidationRule.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Validations\GamertagEditValidationRule.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Validations\GamertagValidationRule.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Validations\PasswordValidationRule.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Validations\TokenValidationRule.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\App.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\Board.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\ChangePassword.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\EditProfile.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\UserControls\Friend.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\UserControls\FriendList.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\UserControls\FriendListLobby.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\UserControls\FriendReport.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\UserControls\FriendRequest.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\Lobby.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\Login.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\UserControls\NotificationFriend.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\UserControls\NotificationsList.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\Options.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\RegisterUser.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\ReportPlayer.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\Statistics.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\UserMenu.xaml.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Properties\AssemblyInfo.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Resources\Music\backgroundTheme.mp3
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Properties\Resources.en-US.resx
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Properties\Resources.en-MX.resx
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Properties\Resources.resx
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Connected Services\ServiceReference\ChineseCheckersClient.ServiceReference.UserModel.datasource
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Connected Services\ServiceReference\item.xsd
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Connected Services\ServiceReference\item1.xsd
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Connected Services\ServiceReference\item2.xsd
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Connected Services\ServiceReference\item3.xsd
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Connected Services\ServiceReference\item4.xsd
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Connected Services\ServiceReference\ManagerController.wsdl
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\packages.config
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Properties\Settings.settings
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\App.config
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Connected Services\ServiceReference\item.disco
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Connected Services\ServiceReference\configuration91.svcinfo
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Connected Services\ServiceReference\configuration.svcinfo
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\Connected Services\ServiceReference\Reference.svcmap

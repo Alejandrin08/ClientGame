@@ -81,7 +81,6 @@
     </Compile>
     <Compile Include="Logic\Email.cs" />
     <Compile Include="Logic\InfoFriend.cs" />
-    <Compile Include="Logic\MusicPlayer.cs" />
     <Compile Include="Logic\Enumerations.cs" />
     <Compile Include="Properties\Resources.en-US.Designer.cs">
       <DependentUpon>Resources.en-US.resx</DependentUpon>
@@ -114,8 +113,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="View\Board.xaml.cs">
-      <DependentUpon>Board.xaml</DependentUpon>
+    <Compile Include="View\BoardGame.xaml.cs">
+      <DependentUpon>BoardGame.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\ChangePassword.xaml.cs">
       <DependentUpon>ChangePassword.xaml</DependentUpon>
@@ -238,7 +237,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\Board.xaml">
+    <Page Include="View\BoardGame.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -345,6 +344,12 @@
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
     <Resource Include="Resources\Images\UpdateIcon.png" />
+    <Resource Include="Resources\Images\Exit.png" />
+    <Resource Include="Resources\Images\BlueMarble.png" />
+    <Resource Include="Resources\Images\GreenMarble.png" />
+    <Resource Include="Resources\Images\PurpleMarble.png" />
+    <Resource Include="Resources\Images\RedMarble.png" />
+    <Resource Include="Resources\Images\EmptySpace.png" />
     <Resource Include="Resources\Images\Board.png" />
     <Content Include="Resources\Music\backgroundTheme.mp3" />
   </ItemGroup>

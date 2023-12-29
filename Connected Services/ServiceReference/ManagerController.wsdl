@@ -282,6 +282,12 @@
   <wsdl:message name="IReport_GetNumReports_OutputMessage">
     <wsdl:part name="parameters" element="tns:GetNumReportsResponse" />
   </wsdl:message>
+  <wsdl:message name="IReport_GetDateReport_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDateReport" />
+  </wsdl:message>
+  <wsdl:message name="IReport_GetDateReport_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDateReportResponse" />
+  </wsdl:message>
   <wsdl:message name="IRoom_CreateRoom_InputMessage">
     <wsdl:part name="parameters" element="tns:CreateRoom" />
   </wsdl:message>
@@ -329,6 +335,12 @@
   </wsdl:message>
   <wsdl:message name="IPlayersRoom_AddPlayerRoom_OutputMessage">
     <wsdl:part name="parameters" element="tns:AddPlayerRoomResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlayersRoom_RemovePlayerRoom_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemovePlayerRoom" />
+  </wsdl:message>
+  <wsdl:message name="IPlayersRoom_RemovePlayerRoom_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemovePlayerRoomResponse" />
   </wsdl:message>
   <wsdl:message name="IPlayersRoom_GetPlayersRoomCallback_OutputCallbackMessage">
     <wsdl:part name="parameters" element="tns:GetPlayersRoomCallback" />
@@ -473,6 +485,10 @@
       <wsdl:input wsaw:Action="http://tempuri.org/IReport/GetNumReports" message="tns:IReport_GetNumReports_InputMessage" />
       <wsdl:output wsaw:Action="http://tempuri.org/IReport/GetNumReportsResponse" message="tns:IReport_GetNumReports_OutputMessage" />
     </wsdl:operation>
+    <wsdl:operation name="GetDateReport">
+      <wsdl:input wsaw:Action="http://tempuri.org/IReport/GetDateReport" message="tns:IReport_GetDateReport_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IReport/GetDateReportResponse" message="tns:IReport_GetDateReport_OutputMessage" />
+    </wsdl:operation>
   </wsdl:portType>
   <wsdl:portType name="IRoom">
     <wsdl:operation name="CreateRoom">
@@ -512,6 +528,10 @@
     <wsdl:operation name="AddPlayerRoom">
       <wsdl:input wsaw:Action="http://tempuri.org/IPlayersRoom/AddPlayerRoom" message="tns:IPlayersRoom_AddPlayerRoom_InputMessage" />
       <wsdl:output wsaw:Action="http://tempuri.org/IPlayersRoom/AddPlayerRoomResponse" message="tns:IPlayersRoom_AddPlayerRoom_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemovePlayerRoom">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlayersRoom/RemovePlayerRoom" message="tns:IPlayersRoom_RemovePlayerRoom_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlayersRoom/RemovePlayerRoomResponse" message="tns:IPlayersRoom_RemovePlayerRoom_OutputMessage" />
     </wsdl:operation>
     <wsdl:operation name="GetPlayersRoomCallback">
       <wsdl:output wsaw:Action="http://tempuri.org/IPlayersRoom/GetPlayersRoomCallback" message="tns:IPlayersRoom_GetPlayersRoomCallback_OutputCallbackMessage" />
@@ -792,6 +812,15 @@
         <soap12:body use="literal" />
       </wsdl:output>
     </wsdl:operation>
+    <wsdl:operation name="GetDateReport">
+      <soap12:operation soapAction="http://tempuri.org/IReport/GetDateReport" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
   </wsdl:binding>
   <wsdl:binding name="NetTcpBinding_IRoom" type="tns:IRoom">
     <wsp:PolicyReference URI="#NetTcpBinding_IRoom_policy" />
@@ -872,6 +901,15 @@
     </wsdl:operation>
     <wsdl:operation name="AddPlayerRoom">
       <soap12:operation soapAction="http://tempuri.org/IPlayersRoom/AddPlayerRoom" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemovePlayerRoom">
+      <soap12:operation soapAction="http://tempuri.org/IPlayersRoom/RemovePlayerRoom" style="document" />
       <wsdl:input>
         <soap12:body use="literal" />
       </wsdl:input>

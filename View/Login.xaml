@@ -4,7 +4,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:p="clr-namespace:ChineseCheckersClient.Properties"
-        xmlns:local="clr-namespace:ChineseCheckersClient.View"
+        xmlns:lg="clr-namespace:ChineseCheckersClient.Logic"
+        xmlns:local="clr-namespace:ChineseCheckersClient.View" 
         mc:Ignorable="d"
         WindowStyle="None"
         WindowState="Maximized">
@@ -17,10 +18,10 @@
         </ResourceDictionary>
     </Window.Resources>
 
-    <StackPanel>
-        <StackPanel.Background>
+    <Grid x:Name="grid">
+        <Grid.Background>
             <ImageBrush ImageSource="/Resources/Images/fondoChineseCheekers.png" RenderOptions.BitmapScalingMode="Fant" Stretch="Fill"/>
-        </StackPanel.Background>
+        </Grid.Background>
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="700"/>
@@ -68,5 +69,5 @@
             </Border>
             <Image Source="/Resources/Images/Tablero.png" Grid.Column="1" Margin="100"/>
         </Grid>
-    </StackPanel>
+    </Grid>
 </Window>

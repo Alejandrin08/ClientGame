@@ -23,7 +23,7 @@ namespace ChineseCheckersClient.UserControls {
     /// </summary>
     public partial class Friend : UserControl, INotifyPropertyChanged {
 
-        public Friend() {
+        public Friend() { 
             InitializeComponent();
             this.DataContext = this;
         }

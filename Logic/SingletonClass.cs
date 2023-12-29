@@ -24,6 +24,7 @@ namespace ChineseCheckersClient.Logic {
         public string EmailUser { get; set; }
         public string Token { get; set; }
         public int ImageProfileUser { get; set; }
+        public string ImageProfile { get; set; }
         public string GamertagFriend { get; set; }
         public string IdRoom { get; set; }
     }

@@ -24,7 +24,7 @@ namespace ChineseCheckersClient.View {
             InitializeComponent();
             string gamertag = SingletonClass.Instance.GamertagPlayerSelected;
             textBlockGamertag.Text = gamertag;
-            imageProfile.Source = App.DisplayImageProfile();
+            imageProfile.Source = App.DisplayImageProfileReport();
         }
 
         private void BackWindow(object sender, MouseButtonEventArgs e) {
@@ -32,21 +32,26 @@ namespace ChineseCheckersClient.View {
         }
 
         private int Evaluate(int idUser, string reason, DateTime currentDate, DateTime endDate) {
-            int result;
+            int result = 0;
             try {
                 ServiceReference.IReport clientReport = new ServiceReference.ReportClient();
-                ReportModel reportModel = new ReportModel {
-                    IdUser = idUser,
-                    Reason = reason,
-                    CurrentDate = currentDate,
-                    EndDate = endDate
-                };
+                int numReports = clientReport.GetNumReports(idUser);
 
-                int numReports = clientReport.GetNumReports(SingletonClass.Instance.IdFriend);
-                if (numReports > 0) {
-                    result = clientReport.UpdateReport(reportModel);
+                if (numReports < 3) {
+                    ReportModel reportModel = new ReportModel {
+                        IdUser = idUser,
+                        Reason = reason,
+                        CurrentDate = currentDate,
+                        EndDate = endDate
+                    };
+
+                    if (numReports > 0) {
+                        result = clientReport.UpdateReport(reportModel);
+                    } else {
+                        result = clientReport.AddReport(reportModel);
+                    }
                 } else {
-                    result = clientReport.AddReport(reportModel);
+                    MessageBox.Show(Properties.Resources.UsuarioBloqueado);
                 }
                 return result;
             } catch (CommunicationException ex) {
@@ -105,7 +110,7 @@ namespace ChineseCheckersClient.View {
                 int idUser = SingletonClass.Instance.IdFriend;
                 string reason = GetTextCheckBox();
                 DateTime dateCurrent = DateTime.Now;
-                DateTime dateFinish = dateCurrent.AddDays(3);
+                DateTime dateFinish = dateCurrent.AddDays(2);
                 int result = Evaluate(idUser, reason, dateCurrent, dateFinish);
                 if (result == 1) {
                     MessageBox.Show(Properties.Resources.ReporteExitoso);

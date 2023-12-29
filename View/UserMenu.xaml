@@ -18,7 +18,7 @@
         </ResourceDictionary>
     </Window.Resources>  
 
-    <Grid>
+    <Grid x:Name="grid">
         <Grid.Background>
             <ImageBrush ImageSource="/Resources/Images/VideoGameBackground.png" RenderOptions.BitmapScalingMode="Fant" Stretch="Fill"/>
         </Grid.Background>

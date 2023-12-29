@@ -27,6 +27,7 @@ namespace ChineseCheckersClient.View {
         
         public UserMenu() {
             InitializeComponent();
+            App.FadeIn(grid, 0.25);
 
             ChangeLanguaje.LanguajeChanged += LanguajeChangedEventHandler;
             string gamertag = SingletonClass.Instance.GamertagUser;
@@ -75,7 +76,7 @@ namespace ChineseCheckersClient.View {
             borderEditor.Visibility = isVisible ? Visibility.Visible : Visibility.Collapsed;
         }
 
-        private void LogOut(object sender, RoutedEventArgs e) {
+        private void LogOut(object sender, RoutedEventArgs e) {  
             try {
                 ServiceReference.IUser client = new ServiceReference.UserClient();
                 client.LogoutUser(SingletonClass.Instance.IdUser);

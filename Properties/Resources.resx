@@ -270,6 +270,9 @@
   <data name="InvitacionEnviada" xml:space="preserve">
     <value>Invitación a partida enviada</value>
   </data>
+  <data name="Invitado" xml:space="preserve">
+    <value>Inv</value>
+  </data>
   <data name="JuegosComenzados" xml:space="preserve">
     <value>Juegos comenzados </value>
   </data>
@@ -392,6 +395,9 @@
   </data>
   <data name="UsuarioAgregado" xml:space="preserve">
     <value>Usuario añadido</value>
+  </data>
+  <data name="UsuarioBloqueado" xml:space="preserve">
+    <value>Este usuario ya se encuentra bloqueado</value>
   </data>
   <data name="UsuarioInvalido" xml:space="preserve">
     <value>Usuario no válido </value>

@@ -520,6 +520,15 @@ namespace ChineseCheckersClient.Properties {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a Inv.
+        /// </summary>
+        public static string Invitado {
+            get {
+                return ResourceManager.GetString("Invitado", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a Juegos comenzados .
         /// </summary>
         public static string JuegosComenzados {
@@ -885,6 +894,15 @@ namespace ChineseCheckersClient.Properties {
         public static string UsuarioAgregado {
             get {
                 return ResourceManager.GetString("UsuarioAgregado", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Este usuario ya se encuentra bloqueado.
+        /// </summary>
+        public static string UsuarioBloqueado {
+            get {
+                return ResourceManager.GetString("UsuarioBloqueado", resourceCulture);
             }
         }
         

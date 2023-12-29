@@ -836,6 +836,12 @@ namespace ChineseCheckersClient.ServiceReference {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IReport/GetNumReports", ReplyAction="http://tempuri.org/IReport/GetNumReportsResponse")]
         System.Threading.Tasks.Task<int> GetNumReportsAsync(int idUser);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IReport/GetDateReport", ReplyAction="http://tempuri.org/IReport/GetDateReportResponse")]
+        System.DateTime GetDateReport(int idUser);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IReport/GetDateReport", ReplyAction="http://tempuri.org/IReport/GetDateReportResponse")]
+        System.Threading.Tasks.Task<System.DateTime> GetDateReportAsync(int idUser);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -895,6 +901,14 @@ namespace ChineseCheckersClient.ServiceReference {
         
         public System.Threading.Tasks.Task<int> GetNumReportsAsync(int idUser) {
             return base.Channel.GetNumReportsAsync(idUser);
+        }
+        
+        public System.DateTime GetDateReport(int idUser) {
+            return base.Channel.GetDateReport(idUser);
+        }
+        
+        public System.Threading.Tasks.Task<System.DateTime> GetDateReportAsync(int idUser) {
+            return base.Channel.GetDateReportAsync(idUser);
         }
     }
     
@@ -1071,6 +1085,12 @@ namespace ChineseCheckersClient.ServiceReference {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IPlayersRoom/AddPlayerRoom", ReplyAction="http://tempuri.org/IPlayersRoom/AddPlayerRoomResponse")]
         System.Threading.Tasks.Task AddPlayerRoomAsync(string gamertag, string idRoom);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IPlayersRoom/RemovePlayerRoom", ReplyAction="http://tempuri.org/IPlayersRoom/RemovePlayerRoomResponse")]
+        void RemovePlayerRoom(string gamertag, string idRoom);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IPlayersRoom/RemovePlayerRoom", ReplyAction="http://tempuri.org/IPlayersRoom/RemovePlayerRoomResponse")]
+        System.Threading.Tasks.Task RemovePlayerRoomAsync(string gamertag, string idRoom);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -1122,6 +1142,14 @@ namespace ChineseCheckersClient.ServiceReference {
         
         public System.Threading.Tasks.Task AddPlayerRoomAsync(string gamertag, string idRoom) {
             return base.Channel.AddPlayerRoomAsync(gamertag, idRoom);
+        }
+        
+        public void RemovePlayerRoom(string gamertag, string idRoom) {
+            base.Channel.RemovePlayerRoom(gamertag, idRoom);
+        }
+        
+        public System.Threading.Tasks.Task RemovePlayerRoomAsync(string gamertag, string idRoom) {
+            return base.Channel.RemovePlayerRoomAsync(gamertag, idRoom);
         }
     }
     

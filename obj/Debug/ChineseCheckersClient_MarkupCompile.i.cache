@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\View\App.xaml
-20209246546
+20708819920
 1-1090778049
-42-461546868
+41504490680
 122-75334398
-Resources\Styles\DictionaryStyles.xaml;UserControls\Chat.xaml;UserControls\MessageChat.xaml;View\Board.xaml;View\ChangePassword.xaml;View\EditProfile.xaml;UserControls\Friend.xaml;UserControls\FriendList.xaml;UserControls\FriendListLobby.xaml;UserControls\FriendReport.xaml;UserControls\FriendRequest.xaml;View\Lobby.xaml;View\Login.xaml;UserControls\NotificationFriend.xaml;UserControls\NotificationsList.xaml;View\Options.xaml;View\RegisterUser.xaml;View\ReportPlayer.xaml;View\Statistics.xaml;View\UserMenu.xaml;
+Resources\Styles\DictionaryStyles.xaml;UserControls\Chat.xaml;UserControls\MessageChat.xaml;View\BoardGame.xaml;View\ChangePassword.xaml;View\EditProfile.xaml;UserControls\Friend.xaml;UserControls\FriendList.xaml;UserControls\FriendListLobby.xaml;UserControls\FriendReport.xaml;UserControls\FriendRequest.xaml;View\Lobby.xaml;View\Login.xaml;UserControls\NotificationFriend.xaml;UserControls\NotificationsList.xaml;View\Options.xaml;View\RegisterUser.xaml;View\ReportPlayer.xaml;View\Statistics.xaml;View\UserMenu.xaml;
 
 False
 

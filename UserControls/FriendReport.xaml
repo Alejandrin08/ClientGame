@@ -17,7 +17,7 @@
             <StackPanel Height="29">
                 <TextBlock Text="{Binding Gamertag}" Height="27" Foreground="#FFFBFBFB" FontSize="14" Margin="4"/>
             </StackPanel>
-            <Image Source="/Resources/Images/ReportIcon.png" Width="27" Margin="5" Cursor="Hand" x:Name="imageInvite" MouseDown="ReportPlayer">
+            <Image Source="/Resources/Images/ReportIcon.png" Width="27" Margin="5" Cursor="Hand" x:Name="imageReport" MouseDown="ReportPlayer">
                 <Image.Style>
                     <Style TargetType="Image">
                         <Setter Property="Visibility" Value="Collapsed"/>

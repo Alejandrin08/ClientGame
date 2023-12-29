@@ -279,7 +279,7 @@ C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCh
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\Resources\Styles\DictionaryStyles.baml
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Chat.g.cs
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\MessageChat.g.cs
-C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Board.g.cs
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\BoardGame.g.cs
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.g.cs
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.g.cs
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Friend.g.cs
@@ -303,7 +303,7 @@ C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCh
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\ChineseCheckersClient_MarkupCompile.lref
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Chat.baml
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\MessageChat.baml
-C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\Board.baml
+C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\BoardGame.baml
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\ChangePassword.baml
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\View\EditProfile.baml
 C:\Users\alexs\Desktop\ChineseCheckers\ChineseCheckersClient\obj\Debug\UserControls\Friend.baml

@@ -37,8 +37,11 @@ namespace ChineseCheckersClient.View {
 
         private void BackWindow(object sender, MouseButtonEventArgs e) {
             ServiceReference.IRoom client = new ServiceReference.RoomClient();
+            ServiceReference.IPlayersRoom playersRoom = new ServiceReference.PlayersRoomClient(new InstanceContext(this));
             client.RemovePlayer(SingletonClass.Instance.GamertagUser, SingletonClass.Instance.IdRoom);
+            playersRoom.RemovePlayerRoom(SingletonClass.Instance.GamertagUser, SingletonClass.Instance.IdRoom);
 
+            playersRoom.GetPlayersRoom(SingletonClass.Instance.GamertagUser, SingletonClass.Instance.IdRoom);
             UserMenu userMenu = new UserMenu();
             userMenu.Show();
             this.Close();
@@ -79,13 +82,14 @@ namespace ChineseCheckersClient.View {
                     foreach (var player in playersInRoom) {
                         bool isReport = true;
                         string gamertag = player; 
+                        string pathFile = clientUser.GetPlayerImage(player);
                         if (player.Equals(SingletonClass.Instance.GamertagUser)) {
                             isReport = false;
                             gamertag = Properties.Resources.Tu;
                         }
                         var playerRoom = new FriendReport {                
                             Gamertag = gamertag,
-                            PathFile = clientUser.GetPlayerImage(player),
+                            PathFile = pathFile,
                             IsReport = isReport,
                         };
                         playersList.Add(playerRoom);
@@ -95,7 +99,7 @@ namespace ChineseCheckersClient.View {
                         playerListControl.Visibility = Visibility.Visible;
                     }
                 });
-            } catch (CommunicationException ex) {
+            } catch (CommunicationException ex) { 
                 MessageBox.Show($"Error de comunicación: {ex.Message}");
             }
         }
@@ -111,8 +115,8 @@ namespace ChineseCheckersClient.View {
         }
 
         public void SendToBoardCallback() {
-            Board board = new Board();
-            board.Show();
+            BoardGame boardGame = new BoardGame();
+            boardGame.Show();
             this.Close();
         }
 
@@ -124,6 +128,19 @@ namespace ChineseCheckersClient.View {
             } else {
                 MessageBox.Show("minimo ocupas dos jugadores");
             }
+        }
+
+        private void ExitWindow(object sender, MouseButtonEventArgs e) {
+            ServiceReference.IRoom clientRoom = new ServiceReference.RoomClient();
+            ServiceReference.IPlayersRoom playersRoom = new ServiceReference.PlayersRoomClient(new InstanceContext(this));
+
+            playersRoom.RemovePlayerRoom(SingletonClass.Instance.GamertagUser, SingletonClass.Instance.IdRoom);
+            clientRoom.RemovePlayer(SingletonClass.Instance.GamertagUser, SingletonClass.Instance.IdRoom);
+
+            playersRoom.GetPlayersRoom(SingletonClass.Instance.GamertagUser, SingletonClass.Instance.IdRoom);
+            Login login = new Login();
+            login.Show();
+            this.Close();
         }
     }
 }
